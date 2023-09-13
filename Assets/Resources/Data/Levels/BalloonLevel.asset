@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dc0128c0dac26b409d10c4478ddf746, type: 3}
+  m_Name: BalloonLevel
+  m_EditorClassIdentifier: 
+  balloon:
+  - {fileID: 2520243942092055719, guid: 9b7ff2f330a2c5442af5b0d15c4f7df5, type: 3}
+  - {fileID: 911473639106674437, guid: f1c22c4ca4d721947b20cb80d2d9619a, type: 3}
+  - {fileID: 1357237980712465455, guid: 690e6e35dafcbf04e8e193112f3d7409, type: 3}
+  - {fileID: 8488536830591326878, guid: 4cbbc7efc617b074c8742d04e807228c, type: 3}
+  - {fileID: 5687505478800452345, guid: 2d31ec76c6af58748b88fc223874d03a, type: 3}
+  - {fileID: 4595522451534776893, guid: 17e6c1d2b1901f84da6c77d06c38f4dc, type: 3}
+  - {fileID: 4046143869224880581, guid: 49597bdb221f92540ba2e58cd440f760, type: 3}
+  - {fileID: 1597044546347406420, guid: e299a9cfcc6171c4bb21be071cfba3e0, type: 3}
+  - {fileID: 2868450986244499251, guid: ed1ddd91047a128468b43d1e1229f831, type: 3}
+  - {fileID: 3542186799372323923, guid: b8aec6e26db7b7243912960a0e9a27d1, type: 3}
+  - {fileID: 5486701137506995506, guid: 3e49c682af2380c4f93343bff2c6c5f6, type: 3}
+  - {fileID: 45123230098983665, guid: 6e4f68525532003489abb4c967a24a99, type: 3}
+  - {fileID: 5394580707237287069, guid: 83e9a9c274f09f348b9688cb76ae9fc9, type: 3}
+  - {fileID: 3399765310770827424, guid: a52890fe1469807498ff6ba475230bdf, type: 3}
+  - {fileID: 4050234261048603173, guid: 0b55715ebe6935a4981c3101f07f1c43, type: 3}
+  - {fileID: 3875478016659623131, guid: b85334e7f895065448e2eb449092fd7d, type: 3}
+  - {fileID: 866213239444504628, guid: d25e6d69cf87a744ba165713ebdf635d, type: 3}
+  - {fileID: 6632503501118185609, guid: 2d87451afc3bc0a4d8fc1112063c8406, type: 3}
+  - {fileID: 6265631970039582182, guid: 756a83347a3a5984a8b5dfb4e35b0efa, type: 3}
+  - {fileID: 1415894714851876711, guid: bb91e8f7186ee6f47883528f8de6c25a, type: 3}
+  clouds:
+  - {fileID: 4188228046764009031, guid: 9810b1438d410d64cbd26e6c3a485986, type: 3}
+  - {fileID: 1768216008169365300, guid: 4de97b65acfaa6f41a792feb613d7f63, type: 3}
+  - {fileID: 6014827277128025734, guid: 5c9dd8478307ee24388ac3e09a454884, type: 3}
+  - {fileID: 6014827277128025734, guid: 5c9dd8478307ee24388ac3e09a454884, type: 3}
+  - {fileID: 1768216008169365300, guid: 4de97b65acfaa6f41a792feb613d7f63, type: 3}
+  - {fileID: 4188228046764009031, guid: 9810b1438d410d64cbd26e6c3a485986, type: 3}

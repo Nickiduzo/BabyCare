@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 445670fdb019d844ca38f56b1058137f, type: 3}
+  m_Name: MusicLevel
+  m_EditorClassIdentifier: 
+  pianoPlayer: {fileID: 3457593341817141774, guid: 907de5287578297499339d9eb57d2f9c, type: 3}
+  bigCow: {fileID: 1335354197570610883, guid: 2bf0e91dab7bc894cae37d0a348c770f, type: 3}
+  orangeCat: {fileID: 154488964306840963, guid: 72e6efec1605bbb49863bc2aade8a02a, type: 3}
+  greenDuck: {fileID: 2079982866531185793, guid: eae736611b0589f46a0452aef88635a0, type: 3}
+  pinkPig: {fileID: 8910315276839251808, guid: 3e905c49589f92c47bc20f37d52037dc, type: 3}
+  whiteSheep: {fileID: 8915741256204961082, guid: 54b07f1064dbeae43a17da579e5e00ab, type: 3}
+  hourse: {fileID: 9084674635500545033, guid: 92b06d86e887cb642b8bc77c5aa41038, type: 3}
+  yellowChicken: {fileID: 575764400588790459, guid: cd6f5c17aaa47ab47a69331383fc99d9, type: 3}
+  redChicken: {fileID: 341334947141454706, guid: af3de2e59aac34148af4887316d26bee, type: 3}
+  puppy: {fileID: 2839548990211543943, guid: c373e0cedc31853418c3d08df2f99810, type: 3}
+  clouds:
+  - {fileID: 1015878272517896291, guid: 205d1961f1da61546b83f79f1669cf9d, type: 3}
+  - {fileID: 4696105038484180368, guid: a69086e6a540bb743aedb8cd74980b4f, type: 3}
+  - {fileID: 2732559340836261836, guid: 9e47e2dc96e2af5458a74dc85f6090a2, type: 3}
+  - {fileID: 4696105038484180368, guid: a69086e6a540bb743aedb8cd74980b4f, type: 3}
+  - {fileID: 2732559340836261836, guid: 9e47e2dc96e2af5458a74dc85f6090a2, type: 3}
+  - {fileID: 1015878272517896291, guid: 205d1961f1da61546b83f79f1669cf9d, type: 3}

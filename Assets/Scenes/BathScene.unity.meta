@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/BathScene.unity.meta
+guid: 852d4e6965bf6ac458027b7fc7667ed2
+========
+guid: 7b3ea5a9fff804cfa9906d080ddd8eee
+>>>>>>>> master:Assets/Other/ecs-master/Leopotam.Ecs.csproj.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

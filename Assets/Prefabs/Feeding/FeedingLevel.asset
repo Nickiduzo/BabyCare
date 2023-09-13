@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 476548058f06f574686a04618af8d962, type: 3}
+  m_Name: FeedingLevel
+  m_EditorClassIdentifier: 
+  _bottle: {fileID: 3615256362232704773, guid: 92348839d3027aa44bef4a77dd840a23, type: 3}
+  _spoon: {fileID: 6243787511350569539, guid: 94091702a776f064fa3de7496680098a, type: 3}
+  _porridge: {fileID: -8547562764201992014, guid: 3374c15f23c279140b418d5e239e0048, type: 3}
+  _cookie: {fileID: -6148742217884875492, guid: f4739acef561a32418a55c34ecc2b972, type: 3}
+  _apple: {fileID: -16907195343885780, guid: 2deeb8abdba2267478e0d884932937aa, type: 3}
+  _eatZone: {fileID: 7985649724880860207, guid: 2a7022b8012c2094fb3da04831f0631b, type: 3}
+  _baby: {fileID: 7235220500099836221, guid: a04b7df664b2cff42a9c665a701c45d6, type: 3}
+  _napkin: {fileID: -3771284140013604570, guid: fe29070641adf85428d22efb632166f3, type: 3}
+  _blobs: {fileID: 2862001284426745471, guid: d35ddcead7f2f344daa9efec8de36364, type: 3}

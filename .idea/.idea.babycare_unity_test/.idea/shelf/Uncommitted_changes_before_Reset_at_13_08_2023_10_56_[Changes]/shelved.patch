@@ -1,0 +1,40 @@
+Index: Assets/Scripts/Scenes/Balloon/Balloons/Balloon.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>using UnityEngine;\r\nusing Sound;\r\nusing System;\r\nusing System.Collections;\r\n\r\npublic class Balloon : MonoBehaviour\r\n{\r\n    [SerializeField] private GameObject particleEffect;\r\n    public event Action OnTapped;\r\n\r\n    private SoundSystem soundSystem;\r\n\r\n    private float speedOfBalloon = 1.8f;\r\n    private int counter = 0;\r\n    private bool isIncrease = true;\r\n\r\n    [Header(\"Uppear destroy value\")]\r\n    public int uppearPosition = 7;\r\n    public void Construct(SoundSystem soundSystem)\r\n    {\r\n        this.soundSystem = soundSystem;\r\n    }\r\n    // Controll moving and speed of balloon each frame\r\n    private void Update()\r\n    {\r\n        counter = PointCounter.TakeDataScore();\r\n\r\n        if (ShouldIncreaseSpeed())\r\n        {\r\n            IncreaseSpeed();\r\n            isIncrease = false;\r\n        }\r\n\r\n        if (counter % 15 != 0) isIncrease = true; // each 15 balloons increase speed\r\n\r\n        transform.Translate(Vector2.up * speedOfBalloon * Time.deltaTime);\r\n        \r\n        if (gameObject.transform.position.y >= uppearPosition) gameObject.SetActive(false);\r\n    }\r\n    //By click on mouse destroy balloon and increase point\r\n    private void OnMouseDown()\r\n    {\r\n        PointCounter.IncreasePoint();\r\n        DestroyBalloon();\r\n        OnTapped?.Invoke();\r\n    }\r\n    //Destroy balloon\r\n    public void DestroyBalloon()\r\n    {\r\n        SpawnEffect();\r\n        gameObject.SetActive(false);\r\n        soundSystem.PlaySound(\"ClickBalloon\");\r\n    }\r\n    //Spawn destroy effect\r\n    private void SpawnEffect()\r\n    {\r\n        Instantiate(particleEffect, transform.position, Quaternion.identity);\r\n    }\r\n    // Add 10% to speed of balloon\r\n    private void IncreaseSpeed()\r\n    {\r\n        speedOfBalloon += speedOfBalloon * 0.1f;\r\n    }\r\n    // Check that destroyed 15 balloons to increase speed\r\n    private bool ShouldIncreaseSpeed()\r\n    {\r\n        return counter != 0 && counter % 15 == 0 && isIncrease;\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/Assets/Scripts/Scenes/Balloon/Balloons/Balloon.cs b/Assets/Scripts/Scenes/Balloon/Balloons/Balloon.cs
+--- a/Assets/Scripts/Scenes/Balloon/Balloons/Balloon.cs	
++++ b/Assets/Scripts/Scenes/Balloon/Balloons/Balloon.cs	
+@@ -7,18 +7,17 @@
+ {
+     [SerializeField] private GameObject particleEffect;
+     public event Action OnTapped;
+-
+-    private SoundSystem soundSystem;
+-
++    
+     private float speedOfBalloon = 1.8f;
+     private int counter = 0;
+     private bool isIncrease = true;
++    private ISound _sound;
+ 
+     [Header("Uppear destroy value")]
+     public int uppearPosition = 7;
+-    public void Construct(SoundSystem soundSystem)
++    public void Construct(ISound sound)
+     {
+-        this.soundSystem = soundSystem;
++        _sound = sound ?? throw new ArgumentNullException(nameof(sound));
+     }
+     // Controll moving and speed of balloon each frame
+     private void Update()
+@@ -49,7 +48,7 @@
+     {
+         SpawnEffect();
+         gameObject.SetActive(false);
+-        soundSystem.PlaySound("ClickBalloon");
++        _sound.Play();
+     }
+     //Spawn destroy effect
+     private void SpawnEffect()

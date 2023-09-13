@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23fcd93699b5c5848b9b6ee3fef45f3d, type: 3}
+  m_Name: BathLevel
+  m_EditorClassIdentifier: 
+  _baby: {fileID: 5715131527690436471, guid: 7956420adf362654bbdc6a51dad7566e, type: 3}
+  _pistol: {fileID: 8091035566530598597, guid: 7157fa657aacfa64f877bc6edf59f631, type: 3}
+  _sub: {fileID: 1725492242406413381, guid: 7afe688289833004bb28e77c23f12284, type: 3}
+  _sponge: {fileID: 3981185113123046863, guid: 97454fa3237097349b7f40e4ab40f83e, type: 3}
+  _duck: {fileID: 4078383126157102581, guid: 1cfe5254312b014489ac1dc86395ed6a, type: 3}
+  _stick: {fileID: 1829085362833125013, guid: e8127de6f88d56a44bdb0afb323d1de3, type: 3}
+  _tube: {fileID: 6543836128050414291, guid: 404175a845bf53e45921f38f2a307fd5, type: 3}

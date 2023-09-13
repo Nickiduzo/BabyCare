@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: c1686e304b063c846a94fe8b4d62d9b9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: musicCowSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 821
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e78052c21c7bb4499973a663131ff64
+      internalID: 536999291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 831
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 23}
+        - {x: -32.5, y: 19}
+        - {x: -32.5, y: 7}
+        - {x: -23.5, y: -13}
+        - {x: -10.5, y: -22}
+        - {x: 22.5, y: -21}
+        - {x: 32.5, y: -12}
+        - {x: 32.5, y: 22}
+        - {x: 28.5, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994769e634715d0459e4ea8e0f4f1490
+      internalID: 845851759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 772
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 52.5}
+        - {x: -49.5, y: 30.5}
+        - {x: -56.5, y: 8.5}
+        - {x: -56.5, y: 6.546631}
+        - {x: -56.5, y: -14.021851}
+        - {x: -56.5, y: -52.5}
+        - {x: 56.5, y: -52.5}
+        - {x: 56.5, y: 42.5}
+        - {x: 50.5, y: 52.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aaa0d12d68d164d839b7086733bb27
+      internalID: 536578051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 718
+        width: 175
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c18e07e1964f1b40b43b187212ab799
+      internalID: 508468742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_5
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 703
+        width: 169
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b459c85f8d1d48b7740fdc65c71fc
+      internalID: -832075266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 191
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f24dc6758c59784587cada54b760d2e
+      internalID: -1699520807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 493
+        width: 174
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 98}
+        - {x: -47, y: 98}
+        - {x: -65, y: 47}
+        - {x: -81, y: -5}
+        - {x: -87, y: -19}
+        - {x: -87, y: -90}
+        - {x: -54, y: -98}
+        - {x: 69, y: -98}
+        - {x: 78, y: -93}
+        - {x: 87, y: -75}
+        - {x: 87, y: 31}
+      - - {x: 25, y: 25}
+        - {x: 24, y: 27}
+        - {x: 23, y: 28}
+        - {x: 23, y: 36}
+        - {x: 27, y: 42}
+        - {x: 29, y: 42}
+        - {x: 30, y: 43}
+        - {x: 31, y: 42}
+        - {x: 33, y: 42}
+        - {x: 34, y: 40}
+        - {x: 36, y: 37}
+        - {x: 36, y: 32}
+        - {x: 35, y: 31}
+        - {x: 34, y: 27}
+        - {x: 31, y: 25}
+        - {x: 30, y: 24}
+        - {x: 27, y: 24}
+        - {x: 26, y: 25}
+      - - {x: -29, y: 27}
+        - {x: -31, y: 29}
+        - {x: -31, y: 31}
+        - {x: -32, y: 32}
+        - {x: -32, y: 36}
+        - {x: -28, y: 43}
+        - {x: -24, y: 45}
+        - {x: -21, y: 43}
+        - {x: -19, y: 40}
+        - {x: -19, y: 32}
+        - {x: -22, y: 28}
+        - {x: -25, y: 26}
+        - {x: -27, y: 26}
+        - {x: -28, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33902070ca4b9942bc51218cc5c9882
+      internalID: -228033120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 476
+        width: 194
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59d364e5d1138240b071be56ddcde52
+      internalID: -367342521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_9
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 444
+        width: 172
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11df89922627b749978b262eeacb12f
+      internalID: 1389960315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_10
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 421
+        width: 222
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ede1b3fd8882b45aeb2f5e3eee87a7
+      internalID: -2111837724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 466
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24030c00f4b5b0d4ba01fcd4a8bd6340
+      internalID: 837682552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_12
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 503
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644767f13ee79a944ab573da45ce03b6
+      internalID: -1939043299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 831
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db79dc7a22e36434581ffa17663ba358
+      internalID: -1288032044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 822
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7789445b8ad914eb52ae45c365e565
+      internalID: -1728912946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 709
+        width: 85
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68377a8fb2eff94fab557e6f4de5c93
+      internalID: 1763250257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicCowSprites_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 690
+        width: 84
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f96e81ec2a01f40940b4e3854aa647
+      internalID: -1999471582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      musicCowSprites_0: 536999291
+      musicCowSprites_1: 845851759
+      musicCowSprites_10: -2111837724
+      musicCowSprites_11: 837682552
+      musicCowSprites_12: -1939043299
+      musicCowSprites_13: -1288032044
+      musicCowSprites_14: -1728912946
+      musicCowSprites_15: -1999471582
+      musicCowSprites_2: 1763250257
+      musicCowSprites_3: 536578051
+      musicCowSprites_4: 508468742
+      musicCowSprites_5: -832075266
+      musicCowSprites_6: -1699520807
+      musicCowSprites_7: -228033120
+      musicCowSprites_8: -367342521
+      musicCowSprites_9: 1389960315
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: ae40f4700a22e564d988c42c8dca2ac8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1896
+        width: 117
+        height: 118
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5447d26d3cebe05408b13a53baa86f03
+      internalID: 234577721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1906
+        width: 116
+        height: 108
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2e11958f8135942b7cce478c8ded22
+      internalID: 541328071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1902
+        width: 120
+        height: 111
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995b35c86be9d4844b38e4835cd7dd0c
+      internalID: 1593091394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_11
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1906
+        width: 126
+        height: 110
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340157d4e0b01594eacd54d5c84cc72b
+      internalID: 388193971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1891
+        width: 104
+        height: 106
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a1a37b3738ad248a572d1e129c938d
+      internalID: 500301245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1890
+        width: 104
+        height: 107
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c023b8e57db9a42bf2442dfe03e220
+      internalID: 193070207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1908
+        width: 34
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa9b259c4f25849aaed5394288da97
+      internalID: -576026567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_17
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1896
+        width: 60
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140d453a8853b3f4e9cd9c18813e43de
+      internalID: -462296693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1896
+        width: 21
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05179ecb4d1b3cc4aa7dd445ba357af6
+      internalID: -1037860243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_31
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1308
+        width: 105
+        height: 96
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b95a37bea16047a27e14c80963657
+      internalID: 223531154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 608
+        width: 121
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da22172ab0fd29479d2d734b1bcb094
+      internalID: 1776393063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_52
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 616
+        width: 121
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8231ac5280fc840a37a340d5d4e7f2
+      internalID: 1784696254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_59
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 452
+        width: 121
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab8a3a3d1a65b848a678fc2a52cb034
+      internalID: -2100501536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_60
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 524
+        width: 100
+        height: 103
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07702a33b1f030a4298f6ff5e85cf15d
+      internalID: -1903242089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_67
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 379
+        width: 121
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f145d71e0ad4b4b8176a7ef8d71bc1
+      internalID: -89567023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_75
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 286
+        width: 121
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc39f3138bfdf8b4da083338b6df2fa9
+      internalID: 2015292430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_76
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 285
+        width: 121
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711670e6bd11a04bac30b2339ead45b
+      internalID: -2081365419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1688
+        width: 199
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32df6bfbfbff88b4f97576678a857e53
+      internalID: 1017027955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_2
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 934
+        width: 139
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e0a460bf222964aa3c63efe969af99
+      internalID: -709001548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_3
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 766
+        width: 138
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0237bf3b9f7294184210c7599f98d8
+      internalID: -1258949353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_4
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1624
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e27261ada3e8b04da9b6c98eaf08cbe
+      internalID: 949337306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 607
+        width: 130
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b7787a33fd1b244a17ec4f44ad34fc
+      internalID: 1356531993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_6
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 92
+        width: 121
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84257c7be8d4560409aa6c31d7c1aa01
+      internalID: 158735131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_7
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 0
+        width: 121
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9c95902ebee114ab96df888806b7f7
+      internalID: -882118441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_12
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 0
+        width: 121
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b2b280d424f2245bf34478da91c9a4
+      internalID: -1157304293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_15
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 822
+        width: 121
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eeb67722e30914ba8a728242871d74
+      internalID: -514187227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_18
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1019
+        width: 121
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7bd7baba36de54687220024f6241bd
+      internalID: -1799705868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_22
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1184
+        width: 121
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf18ae370e55d944c8dd05c791669e50
+      internalID: -983386647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 332
+        width: 200
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41691f7a999d87548afab32fbebfc758
+      internalID: 635910134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 359
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c07f18543e5e0c408968740f6c52116
+      internalID: 1122899470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_20
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 854
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d39d18aaa6a2c41a9ea80b3c2aadd5
+      internalID: -24016668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_21
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 926
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb69096a51f5d42b696fa63140b5a1
+      internalID: 209172708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_24
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 385
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37bcdd7a489a2142a95c88f29ed74e4
+      internalID: 9989408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_25
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 607
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d106662383a692429cb417a72d185f4
+      internalID: 1123127563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_26
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 504
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c5cac4c3c34d45926d15fab4fb13d
+      internalID: 1612768921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_27
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 523
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6d9e83d923e5d40b89170c15d22d82
+      internalID: 1786216067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_28
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 774
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a1f60335c030847954c61a01bce6e1
+      internalID: -344423569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_29
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 92
+        width: 89
+        height: 92
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0a036c1213ac440bbb5f0faa1a005a
+      internalID: 1975064572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1177
+        width: 80
+        height: 80
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf7164b1ba80f0498cc429e047c305c
+      internalID: 1139683383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_32
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1250
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b27befbd2bd984fbb91aff13761c65
+      internalID: 563198239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_33
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1406
+        width: 99
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ab953dc645834bb943bf212bf523f
+      internalID: -270744682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_34
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 884
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefc8f91db3e9fd47b72c946b618a441
+      internalID: -682999622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_0: 1017027955
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_1: 635910134
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_10: 1593091394
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_11: 388193971
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_12: -1157304293
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_13: 500301245
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_14: 193070207
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_15: -514187227
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_16: -576026567
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_17: -462296693
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_18: -1799705868
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_19: -1037860243
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_2: -709001548
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_20: -24016668
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_21: 209172708
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_22: -983386647
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_23: 1122899470
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_24: 9989408
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_25: 1123127563
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_26: 1612768921
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_27: 1786216067
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_28: -344423569
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_29: 1975064572
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_3: -1258949353
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_30: 1139683383
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_31: 223531154
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_32: 563198239
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_33: -270744682
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_34: -682999622
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_35: 161918867
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_36: 631276524
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_37: 1257511543
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_38: -1702733472
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_39: 617059887
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_4: 949337306
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_40: -1850953506
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_41: -1677115046
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_42: -1719335410
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_43: 737988210
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_44: -1679924206
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_45: -929636534
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_46: 260533437
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_47: 1878792930
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_48: -1245984430
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_49: -752045283
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_5: 1356531993
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_50: -665284575
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_51: 1776393063
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_52: 1784696254
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_53: -457125947
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_54: -1122056681
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_55: -1942578278
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_56: 1617528561
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_57: 2008423310
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_58: 529066470
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_59: -2100501536
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_6: 158735131
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_60: -1903242089
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_61: 179723840
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_62: -365720216
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_63: -360139828
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_64: 500426861
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_65: -217205004
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_66: -4339569
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_67: -89567023
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_68: 1402231225
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_69: -1061906162
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_7: -882118441
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_70: -661636593
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_71: -1654817726
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_72: -855071077
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_73: 176722087
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_74: 870679572
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_75: 2015292430
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_76: -2081365419
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_77: 1810734256
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_78: 1871172727
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_79: 351933971
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_8: 234577721
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_80: -345466028
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_81: -1681759676
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_82: 1396057494
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_83: 226224627
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_84: 1386945155
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_85: 2135837877
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_86: -402243510
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_87: -1501887180
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_88: -357887186
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_89: -1602712679
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_9: 541328071
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_90: -308300645
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_91: -1202595887
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_92: -1538076581
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_93: -959419908
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_94: 766853450
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_95: 542866133
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_96: -642523732
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_97: 1186527135
+      LRR_TempBin_SpriteAtlasTexture-Players-2048x2048-fmt4_98: 865053742
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

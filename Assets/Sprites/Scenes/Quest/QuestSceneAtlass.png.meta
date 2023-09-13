@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: 4f604b4386b1a5950990e7dc8038d45d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueCar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1634
+        width: 900
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 423, y: -106.5}
+        - {x: 51.75702, y: -123.93506}
+        - {x: 23, y: -145.5}
+        - {x: -13, y: -148}
+        - {x: -218, y: -148}
+        - {x: -233, y: -136}
+        - {x: -245, y: -134}
+        - {x: -450, y: -120.5}
+        - {x: -449, y: 77.5}
+        - {x: -396, y: 147.5}
+        - {x: -222.63419, y: 141.0227}
+        - {x: -213, y: 90.5}
+        - {x: -208, y: 80.5}
+        - {x: -141, y: 66.5}
+        - {x: -80, y: 65.5}
+        - {x: -4, y: 81.5}
+        - {x: 58, y: 132.5}
+        - {x: 381, y: 100.5}
+        - {x: 403, y: 87.5}
+        - {x: 450, y: 53.5}
+        - {x: 450, y: -100.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa6bda9dad67e30e97bc0bb16802a02
+      internalID: 145965314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatEar1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1949
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a2f6162a9add9508751b78796a067b
+      internalID: 884344150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkWheel
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1842
+        width: 217
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c964fadb0a26b168df66613c5b084a
+      internalID: -1312490122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkSteeringWheel
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1977
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9efbf33f1c6d132808d7013e102f1b
+      internalID: 133598983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_4
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2027
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4682c17fd80c96fe9ff91a07aa15cb2
+      internalID: 543252103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_5
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2026
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71005e49922c985b97c8bd99a6ebae9
+      internalID: -1953743381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_6
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1934
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -57}
+        - {x: -12.5, y: -57}
+        - {x: -42.5, y: -28}
+        - {x: -42.5, y: 55}
+        - {x: 42.5, y: 57}
+        - {x: 42.5, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4e3055972f09e0b1a0d2bd678f837
+      internalID: -212116251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_7
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1872
+        width: 122
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -41.5}
+        - {x: -61, y: -3.5}
+        - {x: -61, y: 17.5}
+        - {x: -43, y: 22.5}
+        - {x: -31, y: 41.5}
+        - {x: -26, y: 41.5}
+        - {x: 40, y: 7.5}
+        - {x: 61, y: -7.5}
+        - {x: 61, y: -41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf8c61dd892fc145a9d12673ec8a997
+      internalID: -15154371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1822
+        width: 240
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -104}
+        - {x: -27, y: -99}
+        - {x: -56, y: -65}
+        - {x: -82, y: -15}
+        - {x: -120, y: 59}
+        - {x: -120, y: 113}
+        - {x: 120, y: 113}
+        - {x: 120, y: 31}
+        - {x: 29, y: -106}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dce3cce761584fab5111c8f4d61412
+      internalID: -1702962390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1619
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b5c2b1ac886c7cd89ee73c87fcf79e
+      internalID: -744926984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1567
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c3f09f8e808363b7308754b633904
+      internalID: -70307893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_11
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1563
+        width: 1016
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53a4e494e39d92eada6bf7a321946a
+      internalID: 1172278416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_12
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1659
+        width: 122
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe13b9bef4587952ab5b6397735d5d7
+      internalID: -508545856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1163
+        width: 908
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eb83c505ecc77c699210e0a4500599
+      internalID: -321996835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1630
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c0500052c4a212f8894662c53b70f3
+      internalID: 509912485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_15
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1433
+        width: 229
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -111}
+        - {x: -114.5, y: -38}
+        - {x: -114.5, y: 35}
+        - {x: -68.5, y: 83}
+        - {x: -20.5, y: 111}
+        - {x: 114.5, y: 111}
+        - {x: 114.5, y: -111}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3540b471bf923746a9561d66fc7ae446
+      internalID: 1393122369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_16
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1255
+        width: 301
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e586b2ee699a6d490cdbb33f86cda2
+      internalID: 1715371580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_17
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1515
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e9234a571da9db95d1cc000fb395c
+      internalID: -1751323634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_18
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1255
+        width: 302
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8ef89c671292875ae464a721595722
+      internalID: -774388881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_19
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1555
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb06a0498d1c915a8b2806de34743336
+      internalID: -2052865275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_20
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1489
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04dbf4ad46d78fc78af91628d8a9efd
+      internalID: 671467873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1288
+        width: 286
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a468c5a8ebfc045caafc2db9ba211f2
+      internalID: -1974277385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_22
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1513
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86ba19cdf7cafaf49bb9d024d91b368
+      internalID: -1524285116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_23
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1013
+        width: 345
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049798a93c08066b088888b5c9fc3250
+      internalID: 97996391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_24
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1197
+        width: 133
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105f1b4dcc11566688956b97d8622f26
+      internalID: 1988285324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_25
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 920
+        width: 1080
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec0b934a35517779a30acb005a59f4
+      internalID: 673081116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_26
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1245
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bdbe0f1ae3ebd238bc1709861ce227
+      internalID: 1392304921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_27
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 860
+        width: 53
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc70bcd4ca17200096e61e1bf1473a1
+      internalID: 822468902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_28
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1209
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c204e35457387fd7dbace74d09176e47
+      internalID: 603312504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1958
+        height: 1190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0006e63c33fb34204a0bc402c4f21676
+      internalID: -1986932517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 992
+        width: 181
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2fb7d32aaa18c49ee29d852ba7e3e
+      internalID: -1912010030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_31
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1159
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb481dc68bae40d59912bac5ad32d41
+      internalID: -1656334906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_32
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 768
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061989b1e0b1f2ebfa5cd04ee13f7b16
+      internalID: -175190021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_33
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 655
+        width: 46
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7b7eb376fa4878a064e2f9a2551c2
+      internalID: 1444145527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_34
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 669
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74775e94669e33668a62107bb3aa7013
+      internalID: -1899376634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_35
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 327
+        width: 117
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cba335bc71bbaa29657341d507d681
+      internalID: 475378139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_36
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 0
+        width: 116
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d813e9524d64ce9bc8b624173f7f13
+      internalID: 1482080834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milk
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1847
+        width: 205
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -98.5}
+        - {x: -21.5, y: -98.5}
+        - {x: -79.5, y: -88.5}
+        - {x: -96.5, y: -77.5}
+        - {x: -102.5, y: 99.5}
+        - {x: 102.5, y: 100.5}
+        - {x: 101.5, y: -85.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc157a725de49de9a58ce8b408493ad
+      internalID: 1690023378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenChest
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1929
+        width: 137
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2477b780265ffc24f93f0de99a1f9be8
+      internalID: -229907790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatBrow1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1903
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b564bad596cc2f063a383a9774106d83
+      internalID: -473904258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteeringWheel1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1914
+        width: 110
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -67}
+        - {x: -55, y: 57}
+        - {x: 22, y: 56}
+        - {x: 36, y: 4}
+        - {x: 55, y: -12}
+        - {x: 55, y: -67}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1421d67d6bc6e1efdba726fd7d6d5411
+      internalID: -727397427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatEar2
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1973
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -37.5}
+        - {x: -28, y: -3.5}
+        - {x: -28, y: 37.5}
+        - {x: 28, y: 37.5}
+        - {x: 28, y: -37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d37a1c69cfb85b3b34b6af6b49e1db
+      internalID: 1255781303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1887
+        width: 243
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: -66}
+        - {x: -90.5, y: -62}
+        - {x: -121.5, y: -51}
+        - {x: -121.5, y: 80}
+        - {x: 119.5, y: 78}
+        - {x: 119.5, y: -67}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d038a54fbb1d2fa2b3abff0f5d39064
+      internalID: 708599490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honey
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1856
+        width: 265
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fba67b2863122968cc355b94bfd95b
+      internalID: -1233579443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Apple: 708599490
+      BlueCar: 145965314
+      Carrot: -1702962390
+      CatBrow1: -473904258
+      CatEar1: 884344150
+      CatEar2: 1255781303
+      GreenChest: -229907790
+      Honey: -1233579443
+      Milk: 1690023378
+      PinkSteeringWheel: 133598983
+      PinkWheel: -1312490122
+      QuestSceneAtlass_10: -70307893
+      QuestSceneAtlass_11: 1172278416
+      QuestSceneAtlass_12: -508545856
+      QuestSceneAtlass_13: -321996835
+      QuestSceneAtlass_14: 509912485
+      QuestSceneAtlass_15: 1393122369
+      QuestSceneAtlass_16: 1715371580
+      QuestSceneAtlass_17: -1751323634
+      QuestSceneAtlass_18: -774388881
+      QuestSceneAtlass_19: -2052865275
+      QuestSceneAtlass_20: 671467873
+      QuestSceneAtlass_21: -1974277385
+      QuestSceneAtlass_22: -1524285116
+      QuestSceneAtlass_23: 97996391
+      QuestSceneAtlass_24: 1988285324
+      QuestSceneAtlass_25: 673081116
+      QuestSceneAtlass_26: 1392304921
+      QuestSceneAtlass_27: 822468902
+      QuestSceneAtlass_28: 603312504
+      QuestSceneAtlass_29: -1986932517
+      QuestSceneAtlass_30: -1912010030
+      QuestSceneAtlass_31: -1656334906
+      QuestSceneAtlass_32: -175190021
+      QuestSceneAtlass_33: 1444145527
+      QuestSceneAtlass_34: -1899376634
+      QuestSceneAtlass_35: 475378139
+      QuestSceneAtlass_36: 1482080834
+      QuestSceneAtlass_4: 543252103
+      QuestSceneAtlass_5: -1953743381
+      QuestSceneAtlass_6: -212116251
+      QuestSceneAtlass_7: -15154371
+      QuestSceneAtlass_9: -744926984
+      SteeringWheel1: -727397427
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

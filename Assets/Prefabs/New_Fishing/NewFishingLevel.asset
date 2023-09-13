@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8ff782395e3bce45aa4b0e7df8a9b21, type: 3}
+  m_Name: NewFishingLevel
+  m_EditorClassIdentifier: 
+  _fishingRod: {fileID: 5423683323707131018, guid: bee5ec5a9bc088d43b60b5772a2627ec, type: 3}
+  _fish: {fileID: 1643615029570569934, guid: 82c1d8fa797f9d54ead7fd7f197008b5, type: 3}
+  _bucket: {fileID: -8900854972768744024, guid: df1cf0b7fb7395641852365cc2c09e15, type: 3}
+  _fishSide: {fileID: -7373955654355478513, guid: 573c25dc13efe9841bb02cfbc2a59c10, type: 3}

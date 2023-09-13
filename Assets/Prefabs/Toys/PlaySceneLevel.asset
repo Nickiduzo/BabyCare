@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 217ac886149a1f54c95e43ef6ef61e83, type: 3}
+  m_Name: PlaySceneLevel
+  m_EditorClassIdentifier: 
+  _child: {fileID: -7788037195528900844, guid: 0f2bd5e98842ca04e8b650f773b7bc3a, type: 3}
+  _ball: {fileID: 8766042750775188468, guid: 80bb9184caeadc44280e1d5cced67ab4, type: 3}
+  _beanbag: {fileID: 8656146339789384138, guid: c5f47fb156bc392409823bd9d4f02775, type: 3}
+  _console: {fileID: -7454043757220994251, guid: e3c3dd94b1189be478949bffeb411499, type: 3}
+  _dino: {fileID: -9037739954441351023, guid: b4c9d3e8338842844a14438cf9871da7, type: 3}
+  _hourse: {fileID: 8792066131853996561, guid: 80edd36228c259c48afd0d170a227d5e, type: 3}
+  _robot: {fileID: -6128619647419498007, guid: 2a4e5b23ddfb0cc4e9abadc9b6c954ed, type: 3}

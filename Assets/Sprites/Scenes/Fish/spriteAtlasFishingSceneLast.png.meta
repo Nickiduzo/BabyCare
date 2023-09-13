@@ -1,0 +1,2024 @@
+fileFormatVersion: 2
+guid: b439387802ae64f588132ebf7279c59e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 1603
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10471612242e849beb057228982d7456
+      internalID: 797561744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 491
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506873b9467c1447eb6a2cc697dbed36
+      internalID: -1551979734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 45
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7728864075ded4a3aa86fb7eed99dc33
+      internalID: -1995524592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_3
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1345
+        width: 239
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6756280c9bce433a919059ab66ea69f
+      internalID: -1451582590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_4
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1406
+        width: 341
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1829883aad24b7aa00be50d2ccfb4f
+      internalID: 1662553341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_5
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1100
+        width: 475
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf90d0d9fcd6491cb21ea11e6ef4c8d
+      internalID: 1836359373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 904
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8381dcb62bb8548f2bf2d93f399b0711
+      internalID: -423183101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 837
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ae48ce61dd48a8ba777168d0fb57d
+      internalID: 1975922698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 826
+        width: 89
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4bcb58b8de24e598b63cb0c4fac64f
+      internalID: 1130451643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 828
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bfd825ddd754a33b452f61d5797282
+      internalID: -1478634095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 818
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb03f82edf6546aa9c4b580becf0c47
+      internalID: 1846853830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_11
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 813
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5800f40512f646de85ed55cef3e031a
+      internalID: 2022947060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_12
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 799
+        width: 159
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4e1e8a94f994f9e8537f2d59fc2464
+      internalID: 1977898782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_13
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 858
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d551c6bdb954944901da50af4cb85b
+      internalID: 1445958907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_14
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 855
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bb269929e5a4a8c83e04719c39e6e7
+      internalID: -444779642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 827
+        width: 141
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b51a6b611232499c8eb849033d1b785
+      internalID: 1360449019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_16
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 886
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef63234dc0b242b49c1f4d631bed9d1
+      internalID: 941360987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_17
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 821
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de40606b409054366af52483c236f702
+      internalID: 1618427247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_18
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 868
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a422aa491f6e14ebc9f3a76c23195b7c
+      internalID: -18727747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_19
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 817
+        width: 182
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0836a6a2bad4c479e9f0eebfa4bda0f0
+      internalID: -2080936009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_20
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 855
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c8db4651fe8452993bd72e0f8c746a
+      internalID: -48686159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_21
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 782
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49ee3ecc36c045e4b120f94f61ad99a
+      internalID: 1403179470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_22
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 805
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69d531b990d54bff82b628dc7400cdc
+      internalID: 1403052207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_23
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 807
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a2a07b515b4d68b1ec13a88d62ed4
+      internalID: 255693723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_24
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 801
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576f1dece7b0243f9a52f75356e56941
+      internalID: -65473913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_25
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 818
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f4930d9fab4b57a3e23f1e22fee77
+      internalID: 2025341526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56c0e904aaa4ed1a178261e2260287
+      internalID: -1472020185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_27
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 800
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8594fabb2490447bcbf2cc062d8244ae
+      internalID: 15370788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_28
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 792
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fec35c746cf4b8f9beb19ca40d0e3d
+      internalID: 1550510429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 742
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacaa3d3f24494f1c812d8504cd36865
+      internalID: -499898152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_30
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 746
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c51f5a645ee04a438149ece42c4c99f
+      internalID: -1068167260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 642
+        width: 143
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d8c0d80d62441ba6c79c282bed5a7
+      internalID: 244079982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_32
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 620
+        width: 142
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc821aa89b175467daee80671ffc0aab
+      internalID: -1606499091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 620
+        width: 107
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160ea7c677ccd4af7938d652cb6d6a8c
+      internalID: 1960812605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_34
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 644
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f516739eda44a5a99b2fbe041e3c6f
+      internalID: -93459429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_35
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 641
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c617f51ec7539482ab9088635da82dee
+      internalID: 1529720487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_36
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 636
+        width: 112
+        height: 80
+      alignment: 9
+      pivot: {x: 0.49602672, y: 0.5604912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf25bf65dcc74d2897ffb84f410e143
+      internalID: 208519313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_37
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 687
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ec31dee927b40db8dcc48eb44a8df6
+      internalID: 1906772293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_38
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 641
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5e6608d99664e10965a98fbb338b10
+      internalID: -1251320927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_39
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 635
+        width: 150
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141c3b376f2c64e10ad29e58db8eff73
+      internalID: -1136327570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_40
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 690
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b79bccbe3740209ef0d8fbbc2d3e5
+      internalID: -77723391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_41
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 614
+        width: 87
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2570112d28d264fdbb522ba37de3defc
+      internalID: -791818304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_42
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 635
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8246f2908b8a34686b224061501ff808
+      internalID: 2125413771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_43
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 638
+        width: 31
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2ed1e4ac2764427aa50cf4c97e4213
+      internalID: -915771373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_44
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 653
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508c2acda61f4e78bb1b1b852e6a856
+      internalID: -2098315037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_45
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 632
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b83d2c1afc489c9ae6f2145fdbda5
+      internalID: -234258789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_46
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 433
+        width: 307
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ccdbae2a604312a7df93226f26ca6
+      internalID: -174872096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_54
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 476
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48784785e31e4785b06536d8dd3d811
+      internalID: 642191790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_55
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 449
+        width: 201
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16e00caccc1546e1b265d1469d25629
+      internalID: 1422989676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_56
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 435
+        width: 140
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f60cc35b1a442f286520416d99728c
+      internalID: -2102154896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_57
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 446
+        width: 134
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8715f32f1f14c7a88f7587ed80aec0
+      internalID: -1006149580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_58
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 448
+        width: 152
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542fccc5c2e7640ddbf58fe22c5e4df8
+      internalID: 290318118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_59
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 440
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd70500f4ddd649c5b5fbf416d10523a
+      internalID: 149828186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 444
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74eb892b2c2c45a8bd17367f2114204
+      internalID: 1095391087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_78
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 426
+        width: 306
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bbbcfac8e4c4f0e83c03f247b602c3
+      internalID: 1247088139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_81
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 454
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38c59b68e8d24409a97dbce84cf438d
+      internalID: 1880980940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_82
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 466
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd18361bd388405195b7028d157f8ec
+      internalID: -572125758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_83
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 467
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6930331182684e2a900ba3e459edf7f
+      internalID: -203137741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 1134
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d806573f3a0044a9b1496503e53f393
+      internalID: -2122114560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_87
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 10
+        width: 231
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5850936e243314cb4a330b40f62f1ed5
+      internalID: 1467890120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_88
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 9
+        width: 231
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dd5be92ed8c43dfa94f326b0a6fa15
+      internalID: -357158684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1079
+        width: 269
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a076c158dc4735aa7614563beebdd
+      internalID: 661975616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_90
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 990
+        width: 108
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d6d77d515d04e22bf8e6083f8bba07
+      internalID: -625909272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_47
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 187
+        width: 104
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37088e10e3b994a1795f06fc257f70db
+      internalID: -1352349753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_48
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 86
+        width: 145
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a242030aeac864edc8e420320ed99203
+      internalID: 767103861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_49
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 862
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854decb2eeb964ebe8cd4e8eeb3865ef
+      internalID: 680249069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_50
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 810
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.46523944, y: 0.41599867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b535236bf852b409d83452bab546d289
+      internalID: 1748868861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_51
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 665
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d425a784b9dd484d98ae28102a53797
+      internalID: -1509706045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_52
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 619
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b3325c757aa4d0a9e7ec28f77820f5
+      internalID: 1631039985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_53
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 671
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e88850483a148aaad46c74f83450dc
+      internalID: -1937731896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_60
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 614
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bef84dcebfa4548a58b6aae4ffdd5a
+      internalID: 584404362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_61
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 671
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41446e28adab5455e884ff3739f58cc9
+      internalID: 596314146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_62
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 626
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67439e2a8c60e44aeb0e0537d4480ae0
+      internalID: -1318684235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_63
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 672
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1084893851725438d9fc1f943dade8d8
+      internalID: 14223492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_64
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 615
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22daac1aeaae1464799f29856643568f
+      internalID: 1698823554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c22b8fd39434691bd209b0e6891e92
+      internalID: 1539103049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_66
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 807
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d52165e141942fd80dba3c3c4a5cac
+      internalID: -2012588332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_67
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1653
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ba538858405438f9bb5fe441b76c98
+      internalID: -913758071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1736
+        width: 1553
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f05c6a0a6b66468ca264e5623ef6675
+      internalID: -860740434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1492
+        width: 1385
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c55c9b69d57e4ac393519ff38578296
+      internalID: 1423697798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_70
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1822
+        width: 171
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dd020f5273047bf828447432721f44
+      internalID: 1845025751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_71
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1840
+        width: 97
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bb2e0cb5e284609b0914c1e39b291e
+      internalID: -1580415010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_73
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1618
+        width: 143
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca93d22ccf8b40949c03a10d750fe3d
+      internalID: 1310335745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_74
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1841
+        width: 706
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddb835b0f9da44498d77b6d5695ac79
+      internalID: 1676759193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasFishingSceneLast_75
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 979
+        width: 716
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74144823adc204f35bd1642dce6f17c8
+      internalID: -532730288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spriteAtlasFishingSceneLast_0: 797561744
+      spriteAtlasFishingSceneLast_1: -1551979734
+      spriteAtlasFishingSceneLast_10: 1846853830
+      spriteAtlasFishingSceneLast_11: 2022947060
+      spriteAtlasFishingSceneLast_12: 1977898782
+      spriteAtlasFishingSceneLast_13: 1445958907
+      spriteAtlasFishingSceneLast_14: -444779642
+      spriteAtlasFishingSceneLast_15: 1360449019
+      spriteAtlasFishingSceneLast_16: 941360987
+      spriteAtlasFishingSceneLast_17: 1618427247
+      spriteAtlasFishingSceneLast_18: -18727747
+      spriteAtlasFishingSceneLast_19: -2080936009
+      spriteAtlasFishingSceneLast_2: 661975616
+      spriteAtlasFishingSceneLast_20: -48686159
+      spriteAtlasFishingSceneLast_21: 1403179470
+      spriteAtlasFishingSceneLast_22: 1403052207
+      spriteAtlasFishingSceneLast_23: 255693723
+      spriteAtlasFishingSceneLast_24: -65473913
+      spriteAtlasFishingSceneLast_25: 2025341526
+      spriteAtlasFishingSceneLast_26: -1472020185
+      spriteAtlasFishingSceneLast_27: 15370788
+      spriteAtlasFishingSceneLast_28: 1550510429
+      spriteAtlasFishingSceneLast_29: -499898152
+      spriteAtlasFishingSceneLast_3: -1451582590
+      spriteAtlasFishingSceneLast_30: -1068167260
+      spriteAtlasFishingSceneLast_31: 244079982
+      spriteAtlasFishingSceneLast_32: -1606499091
+      spriteAtlasFishingSceneLast_33: 1960812605
+      spriteAtlasFishingSceneLast_34: -93459429
+      spriteAtlasFishingSceneLast_35: 1529720487
+      spriteAtlasFishingSceneLast_36: 208519313
+      spriteAtlasFishingSceneLast_37: 1906772293
+      spriteAtlasFishingSceneLast_38: -1251320927
+      spriteAtlasFishingSceneLast_39: -1136327570
+      spriteAtlasFishingSceneLast_4: 1662553341
+      spriteAtlasFishingSceneLast_40: -77723391
+      spriteAtlasFishingSceneLast_41: -791818304
+      spriteAtlasFishingSceneLast_42: 2125413771
+      spriteAtlasFishingSceneLast_43: -915771373
+      spriteAtlasFishingSceneLast_44: -2098315037
+      spriteAtlasFishingSceneLast_45: -234258789
+      spriteAtlasFishingSceneLast_46: -174872096
+      spriteAtlasFishingSceneLast_47: -1352349753
+      spriteAtlasFishingSceneLast_48: 767103861
+      spriteAtlasFishingSceneLast_49: 680249069
+      spriteAtlasFishingSceneLast_5: 1836359373
+      spriteAtlasFishingSceneLast_50: 1748868861
+      spriteAtlasFishingSceneLast_51: -1509706045
+      spriteAtlasFishingSceneLast_52: 1631039985
+      spriteAtlasFishingSceneLast_53: -1937731896
+      spriteAtlasFishingSceneLast_54: 642191790
+      spriteAtlasFishingSceneLast_55: 1422989676
+      spriteAtlasFishingSceneLast_56: -2102154896
+      spriteAtlasFishingSceneLast_57: -1006149580
+      spriteAtlasFishingSceneLast_58: 290318118
+      spriteAtlasFishingSceneLast_59: 149828186
+      spriteAtlasFishingSceneLast_6: -423183101
+      spriteAtlasFishingSceneLast_60: 584404362
+      spriteAtlasFishingSceneLast_61: 596314146
+      spriteAtlasFishingSceneLast_62: -1318684235
+      spriteAtlasFishingSceneLast_63: 14223492
+      spriteAtlasFishingSceneLast_64: 1698823554
+      spriteAtlasFishingSceneLast_65: 1539103049
+      spriteAtlasFishingSceneLast_66: -2012588332
+      spriteAtlasFishingSceneLast_67: -913758071
+      spriteAtlasFishingSceneLast_68: -860740434
+      spriteAtlasFishingSceneLast_69: 1423697798
+      spriteAtlasFishingSceneLast_7: 1975922698
+      spriteAtlasFishingSceneLast_70: 1845025751
+      spriteAtlasFishingSceneLast_71: -1580415010
+      spriteAtlasFishingSceneLast_72: 1095391087
+      spriteAtlasFishingSceneLast_73: 1310335745
+      spriteAtlasFishingSceneLast_74: 1676759193
+      spriteAtlasFishingSceneLast_75: -532730288
+      spriteAtlasFishingSceneLast_76: 15192858
+      spriteAtlasFishingSceneLast_77: -1828285110
+      spriteAtlasFishingSceneLast_78: 1247088139
+      spriteAtlasFishingSceneLast_79: 655139168
+      spriteAtlasFishingSceneLast_8: 1130451643
+      spriteAtlasFishingSceneLast_80: -811038160
+      spriteAtlasFishingSceneLast_81: 1880980940
+      spriteAtlasFishingSceneLast_82: -572125758
+      spriteAtlasFishingSceneLast_83: -203137741
+      spriteAtlasFishingSceneLast_84: 1545739022
+      spriteAtlasFishingSceneLast_85: -781462865
+      spriteAtlasFishingSceneLast_86: -2122114560
+      spriteAtlasFishingSceneLast_87: 1467890120
+      spriteAtlasFishingSceneLast_88: -357158684
+      spriteAtlasFishingSceneLast_89: -1995524592
+      spriteAtlasFishingSceneLast_9: -1478634095
+      spriteAtlasFishingSceneLast_90: -625909272
+      spriteAtlasFishingSceneLast_91: 501293740
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

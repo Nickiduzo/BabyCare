@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: 9002ea16d676ca645908c7dbea232004
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FishingScene_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 396
+        width: 855
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bb6b329582ece47b02840aae5ee8e6
+      internalID: 1908725074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 594
+        width: 578
+        height: 589
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34ba8bffc1d2174bb1ee0419395b366
+      internalID: 241517848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_8
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 398
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac37e6f28126ac4aa3cf0f9e404fef5
+      internalID: -686659636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_9
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 442
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f77bd39f21f4f4dbeab88ba4016a0e
+      internalID: -1511110036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_10
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 449
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d0874581865024db566c7ab8cfb6e1
+      internalID: 1667557014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_11
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 451
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64381395e44c3249a58395e5617177d
+      internalID: -755881270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_12
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 432
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ada47b1d3fac544b04fcc279ca6e98
+      internalID: 1262151662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 257
+        width: 168
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692b5d0e498e2dd4baffc9bbec07d2b3
+      internalID: 1278555483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 160
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259201c017c0e83498cdf7a35abe8e6d
+      internalID: 1635993147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 265
+        width: 153
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381092ec67b68044b849a85d9f3f7142
+      internalID: -346041881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_17
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 264
+        width: 158
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ae013b0f80e2c4783b866722e90e51
+      internalID: 703860728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_18
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 268
+        width: 164
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9309b09f6bb612c4ca1de2ab48be139c
+      internalID: 1795164379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_19
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 339
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13852340c0fd8149a6efcf36b59322c
+      internalID: 658955440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_20
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 347
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1594d1c09aea3041ab4f94cded5d492
+      internalID: 2029870558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_21
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 345
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6927df80e3f3b2341b220064db04a9fa
+      internalID: -1968289952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_22
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 252
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3867b71713c65d4696b30c000a29d31
+      internalID: -452452134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_23
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 257
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025a27ff6513b5a49866ab41b7df849b
+      internalID: 748307568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_24
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 257
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b385a718fc66b7c4187027a451cbba99
+      internalID: -1986264792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 166
+        width: 506
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9183ddec2a1654eb82f9716d225858
+      internalID: -1093328014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_26
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 132
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf5affcf59c6f4bb913a5b1897180d
+      internalID: 761860816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_27
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 201
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba299ea3c1e7944b97319cd505e44a
+      internalID: 1117620640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_28
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 201
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aef7dd1c82d3f4196627bc7832af6b
+      internalID: -1876112311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_29
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 210
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263f53d14f9b5e489c9db98d6af3b12
+      internalID: 795844061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_30
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 156
+        width: 135
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee4516f8a2b0de4b91964e6a8af48fe
+      internalID: 497112656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_31
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 152
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d945d239eb2c489acb82710e3aa61
+      internalID: -1152257535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_32
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 154
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c4f5bef2c839e4888e4511bfe5def5
+      internalID: -2130226809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_33
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 163
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86479dde9b3b844469b7c0c42cc6cf77
+      internalID: 1837729389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 103
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c136a51a7a1b34eadb85615d4bbd00
+      internalID: 1090306418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 105
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0edc15fbe8cf984cbec400a18254794
+      internalID: 899892399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 108
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03389e20a368e7439cb94da1a36a6d1
+      internalID: -637404152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 100
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3967a2c6af6c649bf21c97f0b76716
+      internalID: 1906368927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_38
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 105
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1756d314034db544195da84e65765317
+      internalID: 1437888782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_39
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 108
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b310bebcba640ca45a6c2e374b13392f
+      internalID: 903593945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_40
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 103
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be88bbc8e33adb46a5807196d632cf4
+      internalID: -1674917788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_41
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 106
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07007c0bfb818640962356c2b66f663
+      internalID: -1849316198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_42
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 103
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491bf46dc73ee0e4d99106adfeeee98c
+      internalID: 239887662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_43
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 95
+        width: 96
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7f9546f250664aa4489b85da8945e
+      internalID: 877554032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_45
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 97
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40753de8dbff8074badfbf0b168b6524
+      internalID: -1919722713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_47
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 101
+        width: 105
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8222a3e5580d93d46a15b7b40f7501e9
+      internalID: -1842873933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_50
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 41
+        width: 47
+        height: 51
+      alignment: 9
+      pivot: {x: 0.64695126, y: -0.0053666057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737d48eb4728dfc4eb0b9e03119c61da
+      internalID: -609818056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_51
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 44
+        width: 40
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30d08df3fc5ca84ab21f420bdf03159
+      internalID: -1178959948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_52
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 38
+        width: 39
+        height: 52
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6771890b1fa7204b88d6d4fd8392fb8
+      internalID: -403160096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_53
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 56
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b1b9528612ace42a1da879bd19f0fa
+      internalID: 1182806472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 30
+        width: 59
+        height: 51
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec1d26f181e5ed4d81c0d96f65a10a6
+      internalID: 1934126034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_58
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 34
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91216f9991cf604429f7e0f81285f97e
+      internalID: -1652153209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_59
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 36
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d865cf294903534189e4750e6e1fb1d
+      internalID: -1969448745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_60
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 40
+        width: 47
+        height: 45
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48eac0b71d37c34e9d8070d5851fb32
+      internalID: 1343872134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_61
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 44
+        width: 54
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0feb803227e8cb4dbeed295b3590640
+      internalID: -1358912674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_62
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 53
+        width: 42
+        height: 28
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263ab201f529bb64180e0c26286a9b31
+      internalID: 2039690594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_63
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 51
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5289b739eb4d3be4ab7a93df85da1b55
+      internalID: 1334457997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 49
+        width: 44
+        height: 27
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4039d444d52e540acf9c56d8fe2df6
+      internalID: 2037894048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishingScene_68
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a72dede43bc25742b6fa7e24e42210a
+      internalID: 282261954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FishingScene_0: 1828875587
+      FishingScene_1: 641783846
+      FishingScene_10: 1667557014
+      FishingScene_11: -755881270
+      FishingScene_12: 1262151662
+      FishingScene_13: -1347837775
+      FishingScene_14: 1278555483
+      FishingScene_15: 1635993147
+      FishingScene_16: -346041881
+      FishingScene_17: 703860728
+      FishingScene_18: 1795164379
+      FishingScene_19: 658955440
+      FishingScene_2: -1840449113
+      FishingScene_20: 2029870558
+      FishingScene_21: -1968289952
+      FishingScene_22: -452452134
+      FishingScene_23: 748307568
+      FishingScene_24: -1986264792
+      FishingScene_25: -1093328014
+      FishingScene_26: 761860816
+      FishingScene_27: 1117620640
+      FishingScene_28: -1876112311
+      FishingScene_29: 795844061
+      FishingScene_3: 1520368450
+      FishingScene_30: 497112656
+      FishingScene_31: -1152257535
+      FishingScene_32: -2130226809
+      FishingScene_33: 1837729389
+      FishingScene_34: 1090306418
+      FishingScene_35: 899892399
+      FishingScene_36: -637404152
+      FishingScene_37: 1906368927
+      FishingScene_38: 1437888782
+      FishingScene_39: 903593945
+      FishingScene_4: 349359441
+      FishingScene_40: -1674917788
+      FishingScene_41: -1849316198
+      FishingScene_42: 239887662
+      FishingScene_43: 877554032
+      FishingScene_44: 1058241650
+      FishingScene_45: -1919722713
+      FishingScene_46: -1827239627
+      FishingScene_47: -1842873933
+      FishingScene_48: 1614022282
+      FishingScene_49: 1538916160
+      FishingScene_5: -98545320
+      FishingScene_50: -609818056
+      FishingScene_51: -1178959948
+      FishingScene_52: -403160096
+      FishingScene_53: 1182806472
+      FishingScene_54: -1723802667
+      FishingScene_55: 608882173
+      FishingScene_56: -1321700663
+      FishingScene_57: 1934126034
+      FishingScene_58: -1652153209
+      FishingScene_59: -1969448745
+      FishingScene_6: 1908725074
+      FishingScene_60: 1343872134
+      FishingScene_61: -1358912674
+      FishingScene_62: 2039690594
+      FishingScene_63: 1334457997
+      FishingScene_64: -909170126
+      FishingScene_65: -1430854046
+      FishingScene_66: 2037894048
+      FishingScene_67: -284503424
+      FishingScene_68: 282261954
+      FishingScene_69: -1317837189
+      FishingScene_7: 241517848
+      FishingScene_70: -174778907
+      FishingScene_71: 1013027252
+      FishingScene_72: -1112670166
+      FishingScene_73: -1763442357
+      FishingScene_74: -797456903
+      FishingScene_75: 169525422
+      FishingScene_76: 1137961248
+      FishingScene_77: 1039377516
+      FishingScene_8: -686659636
+      FishingScene_9: -1511110036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

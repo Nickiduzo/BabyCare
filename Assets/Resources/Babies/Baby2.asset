@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a200cc36fe64aec41923d01cd5e19843, type: 3}
+  m_Name: Baby2
+  m_EditorClassIdentifier: 
+  _head: {fileID: 1116602262, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _hair: {fileID: 0}
+  _rightPonytail: {fileID: 0}
+  _leftPonytail: {fileID: 0}
+  _hairBow: {fileID: 0}
+  _elastic: {fileID: 0}
+  _hairAccessory: {fileID: 865026156, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _eyebrow: {fileID: 1626338504, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _rightEyeball: {fileID: -1457152611, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _leftEyeball: {fileID: -1375595443, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _iris: {fileID: -1294601442, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _rightEyelid: {fileID: 969253844, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _leftEyelid: {fileID: -1074186602, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _mouth: {fileID: 1190510513, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _tongue: {fileID: 0}
+  _body: {fileID: 112982367, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _arm: {fileID: 1967400934, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _leg: {fileID: -404766473, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
+  _foot: {fileID: 1210517364, guid: dbde6798bfeb05c478dda60889db8237, type: 3}
